@@ -11,10 +11,10 @@ git clone
 
 ## インストール方法
 
-cd laravel_umarche
-composer install
-npm install
-npm run dev
+1.cd laravel_umarche
+2.composer install
+3.npm install
+4.npm run dev
 
 .env.example をコピーして .env ファイルを作成
 
