@@ -7,7 +7,6 @@ git clone -b 【ブランチ名】　https://github.com/ryo032605/laravel_umarch
 
 もしくはzipファイルでダウンロードしてください
 
-git clone
 
 ## インストール方法
 
