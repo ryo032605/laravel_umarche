@@ -1871,6 +1871,9 @@ select{
   .lg\:w-1\/2{
     width: 50%;
   }
+  .lg\:w-1\/4{
+    width: 25%;
+  }
   .lg\:justify-around{
     justify-content: space-around;
   }
